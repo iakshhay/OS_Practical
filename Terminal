@@ -1,0 +1,5 @@
+mkdir dhruv
+cd dhruv
+touch os.c
+
+./a.out
