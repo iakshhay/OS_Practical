@@ -2,4 +2,11 @@ mkdir dhruv
 cd dhruv
 touch os.c
 
+
+gcc writer.c
 ./a.out
+
+gcc reader.c
+./a.out
+
+
