@@ -2,6 +2,8 @@ mkdir dhruv
 cd dhruv
 touch os.c
 
+sudo apt install gcc
+
 
 gcc writer.c
 ./a.out
